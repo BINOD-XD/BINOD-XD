@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**a
 
-- 👨‍💻 All of my projects are available at [Can't Show Now.](Can't Show Now.)
+- 👨‍💻 All of my projects are available at(Can't Show Now.)
 
 - 💬 Ask me about **Android ,MEARN**
 
