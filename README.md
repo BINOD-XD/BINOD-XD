@@ -282,9 +282,7 @@ const BINOD-XD = {
 
   ![BINOD-XD](https://github-readme-stats.vercel.app/api?username=BINOD-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/BINOD-XD" width="600" /></a>
-  
-  <img src="https://metrics.lecoq.io/BINOD-XD?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKoyra">
+ <img src="https://metrics.lecoq.io/BINOD-XD?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKoyra">
 </p>  
   
 ![BINOD-XD](https://github-readme-streak-stats.herokuapp.com/?user=BINOD-XD&theme=dark&hide_border=false)<br/>
