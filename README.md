@@ -106,7 +106,7 @@ const BINOD-XD = {
 <h3 align="center">
  
 <a href="https://t.me/shanto27"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=riyadhossainshanto5@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://facebook.com/reyadbross"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/reyadbros"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://wa.me/+8801989861704"><img title="WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
