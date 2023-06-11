@@ -113,7 +113,7 @@ const BINOD-XD = {
 
 
 ## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=shanto_riyad&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@shanto_riyad&theme=apprentice&response=false&border=true&time=true&icon=user"/></a>
 
 #### 📊This Week I Spent My Time On:⏰🕜
 <h3 align="center">
