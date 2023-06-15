@@ -120,7 +120,7 @@ const BINOD-XD = {
   
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
+<a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/BINOD-XD/BINOD-XD/blob/main/images/stat.svg" alt="BINOD-XD WakaTime Activity" align=center/></a>
 
   
  # 💻 Tech Stack:
