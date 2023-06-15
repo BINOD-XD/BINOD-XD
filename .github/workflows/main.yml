@@ -1,8 +1,9 @@
 name: WakaTime status update
 
 on:
+  push:
+    branches: [master]
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
 
 jobs:
@@ -16,9 +17,9 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ waka_5b64df69-7e0c-4827-9446-c4cae7d10d82 }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ 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 }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
