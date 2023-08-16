@@ -305,7 +305,7 @@ const BINOD-XD = {
 
 
 <!-- Contribution Snake -->
-![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+<img src="./assets/github-contribution-grid-snake.svg">
 
 <!-- Footer -->
 
