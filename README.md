@@ -286,7 +286,7 @@ const BINOD-XD = {
   
 ![BINOD-XD](https://github-readme-streak-stats.herokuapp.com/?user=BINOD-XD&theme=dark&hide_border=false)<br/>
 
-<a href="https://www.github.com/BINOD-XD"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BINOD-XD&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![BINOD-XD](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BINOD-XD&theme=ayu_mirage)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />  
   
