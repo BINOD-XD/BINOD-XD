@@ -274,13 +274,7 @@ const BINOD-XD = {
 ## 📊 GitHub Stats:
 <h3 align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BINOD-XD&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
-        </a>
-    </div>
-
-  ![BINOD-XD](https://github-readme-stats.vercel.app/api?username=BINOD-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+![BINOD-XD](https://github-readme-stats.vercel.app/api?username=BINOD-XD&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
  <img src="https://metrics.lecoq.io/BINOD-XD?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKoyra">
 </p>  
   
